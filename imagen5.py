@@ -6,6 +6,9 @@ from skimage.color.adapt_rgb import adapt_rgb, each_channel, hsv_value
 from skimage import filters
  #cambio para github
 
+ 
+ #cambio para Sourcetree
+ 
 image1 = data.imread('uniforme.jpg')
 image=color.rgb2gray(image1)
 
